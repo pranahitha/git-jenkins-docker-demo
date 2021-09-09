@@ -18,4 +18,8 @@ public class App
     {
     	return (num1+num2);
     }
+    public void message1()
+    {
+    	System.out.println("Printing message : Pranahitha");
+    }
 }
