@@ -40,7 +40,7 @@ public class AppTest {
 	}
 	@Test
 	public void sumtest3() {
-		assertEquals(20, app.sum(14, 6));;
+		assertEquals(7, app.sum(1, 6));;
 	}
 
 }
